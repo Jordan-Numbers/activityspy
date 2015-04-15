@@ -58,7 +58,9 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onDestroy(){
         super.onDestroy();
-        String message = "we're going down, Captain!";
-        Log.e("activityspy", message);
+        String messageOne = "onDestroy event fired";
+        Log.i("activityspy", messageOne);
+        String messageTwo = "we're going down, Captain!";
+        Log.e("activityspy", messageTwo);
     }
 }
