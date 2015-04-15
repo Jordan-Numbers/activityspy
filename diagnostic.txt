@@ -1,0 +1,37 @@
+04-14 16:59:37.622    2254-2254/? I/activityspy﹕ onCreate event fired
+04-14 16:59:37.623    2254-2254/? I/activityspy﹕ onStart event fired
+04-14 16:59:37.623    2254-2254/? I/activityspy﹕ onResume event fired
+04-14 16:59:37.625     920-2315/? D/﹕ HostConnection::get() New Host Connection established 0xb6028b10, tid 2315
+04-14 16:59:37.695    2254-2269/? W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+04-14 16:59:37.695    2254-2269/? W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6802ee0, error=EGL_SUCCESS
+04-14 16:59:37.731    1219-1242/? I/ActivityManager﹕ Displayed edu.washington.j75smith.activityspy/.MainActivity: +119ms
+04-14 16:59:41.105    1219-1277/? D/TaskPersister﹕ removeObsoleteFile: deleting file=22_task.xml
+04-14 16:59:41.105    1219-1277/? D/TaskPersister﹕ removeObsoleteFile: deleting file=22_task_thumbnail.png
+04-14 16:59:41.242    1219-1251/? I/ActivityManager﹕ START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher} from uid 1000 on display 0
+04-14 16:59:41.245    1219-1251/? D/﹕ HostConnection::get() New Host Connection established 0xa46f1170, tid 1251
+04-14 16:59:41.252      920-920/? E/EGL_emulation﹕ tid 920: eglCreateSyncKHR(1237): error 0x3004 (EGL_BAD_ATTRIBUTE)
+04-14 16:59:41.279    2254-2254/? I/activityspy﹕ onPause event fired
+04-14 16:59:41.305    2254-2254/? I/activityspy﹕ onStop event fired
+04-14 16:59:41.308    1219-1267/? W/AudioTrack﹕ AUDIO_OUTPUT_FLAG_FAST denied by client
+04-14 16:59:41.402    1435-1610/? W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+04-14 16:59:41.402    1435-1610/? W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c11da0, error=EGL_SUCCESS
+04-14 16:59:41.978    1435-1610/? W/OpenGLRenderer﹕ Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+04-14 16:59:41.979    1435-1610/? W/OpenGLRenderer﹕ Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+04-14 16:59:41.979    1435-1610/? W/OpenGLRenderer﹕ Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+04-14 16:59:50.839    1219-1267/? W/AudioTrack﹕ AUDIO_OUTPUT_FLAG_FAST denied by client
+04-14 16:59:51.960    1219-1267/? W/AudioTrack﹕ AUDIO_OUTPUT_FLAG_FAST denied by client
+04-14 16:59:51.965    1219-1233/? I/ActivityManager﹕ START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.j75smith.activityspy/.MainActivity (has extras)} from uid 10008 on display 0
+04-14 16:59:52.007    2254-2254/? I/activityspy﹕ onRestart event fired
+04-14 16:59:52.011    2254-2254/? I/activityspy﹕ onStart event fired
+04-14 16:59:52.011    2254-2254/? I/activityspy﹕ onResume event fired
+04-14 16:59:52.028    2254-2269/? W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+04-14 16:59:52.028    2254-2269/? W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6802ee0, error=EGL_SUCCESS
+04-14 16:59:56.420    1219-1267/? W/AudioTrack﹕ AUDIO_OUTPUT_FLAG_FAST denied by client
+04-14 16:59:56.431    1219-1449/? D/﹕ HostConnection::get() New Host Connection established 0xa05028f0, tid 1449
+04-14 16:59:56.439      920-920/? E/EGL_emulation﹕ tid 920: eglCreateSyncKHR(1237): error 0x3004 (EGL_BAD_ATTRIBUTE)
+04-14 16:59:56.474    2254-2254/? I/activityspy﹕ onPause event fired
+04-14 16:59:56.502    1435-1610/? W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+04-14 16:59:56.502    1435-1610/? W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c11da0, error=EGL_SUCCESS
+04-14 16:59:56.513    1219-1492/? W/InputMethodManagerService﹕ Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@3186e9c2 (uid=10058 pid=2254)
+04-14 16:59:56.983    2254-2254/? I/activityspy﹕ onStop event fired
+04-14 16:59:56.983    2254-2254/? E/activityspy﹕ we're going down, Captain!
